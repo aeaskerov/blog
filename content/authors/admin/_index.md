@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alexander Askerov
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alexander
+last_name: Askerov
 
 # Status emoji
 status:
