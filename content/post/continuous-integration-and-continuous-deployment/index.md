@@ -1,17 +1,31 @@
 ---
-title: continuous integration and continuous deployment (CI/CD)
-subtitle: What are they?
-summary: We discussed the main idea of CI and CD
-authors:
-  - Alexander Askerov
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Continuous Integration and Continuous Deployment"
+subtitle: "The main idea of CI/CD"
+summary: "What are Continuous Integration and Continuous Deployment?"
+authors: [Alexander Askerov]
 tags: []
 categories: []
-projects: []
-date: '2023-04-03T00:00:00Z'
-lastMod: '2023-04-03T00:00:00Z'
+date: 2023-03-06T23:01:07+03:00
+lastmod: 2023-03-06T23:01:07+03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 Continuous integration (CI) and continuous deployment (CD) are two practices that help developers automate the process of building, testing, and deploying their code. These practices are essential for software development teams that want to deliver high-quality code quickly and efficiently.
