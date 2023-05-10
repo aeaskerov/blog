@@ -6,7 +6,32 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+
+ru:
+  languageCode: ru-ru
+  contentDir: content/ru
+  menu:
+    main:
+      - name: Обо мне
+        url: '#about'
+        weight: 1
+      - name: Посты
+        url: '#posts'
+        weight: 2
+      - name: Проекты
+        url: '#projects'
+        weight: 3
+      - name: Обсуждения
+        url: '#talks'
+        weight: 4
+      - name: Публикации
+        url: '#featured'
+        weight: 5
+      - name: Контакты
+        url: '#contact'
+        weight: 6
+  
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

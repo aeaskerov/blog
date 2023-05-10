@@ -6,13 +6,16 @@
 title: Academic # Website name
 baseURL: 'https://example.com/' # Website URL
 
+ignoreErrors: ["error-remote-getcsv"]
+
+
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: en
 removePathAccents: true
 
 ############################

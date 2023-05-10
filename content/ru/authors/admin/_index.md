@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alexander Askerov
+title: Александр Аскеров
 
 # Full name (for SEO)
-first_name: Alexander
-last_name: Askerov
+first_name: Александр
+last_name: Аскеров
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Informatics student
+role: Студент информатики
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peoples' Friendship University of Russia
-    url: https://eng.rudn.ru/
+  - name: Российский Университет Дружбы Народов
+    url: https://rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Informatics student. In my free time I like to read science fiction and listen to music. My favorite authors are Robert Anson Heinlein, Bertrand Russell and Carl Sagan.
+bio: Я изучаю информатику. В свободное время люблю читать научную фантастику и слушать музыку.
 
 # Interests to show in About widget
 interests:
-  - Science and technology
-  - Science fiction books
-  - Music
-  - Drawing
+  - Наука и техника
+  - Научно-фантастические книги
+  - Музыка
+  - Рисование
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Applied Informatics
-      institution: Peoples' Friendship University of Russia
+    - course: Бакалавриат, Прикладная информатика
+      institution: Российский Университет Дружбы Народов
       year: 2026
 
 # Social/Academic Networking
@@ -49,7 +49,7 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/@fuchs2616
-    label: Follow me on YouTube
+    label: Подписывайтесь в YouTube
     display:
       header: true
   - icon: github
@@ -66,5 +66,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an Informatics student. In my free time I like to read science fiction and listen to music. My favorite authors are Robert Anson Heinlein, Bertrand Russell and Carl Sagan.
+Я изучаю информатику. В свободное время люблю читать научную фантастику и слушать музыку.
 {style="text-align: justify;"}
